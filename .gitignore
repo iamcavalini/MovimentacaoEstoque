@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Desafio Target 2/Program.cs
+/Desafio Target 2/Desafio Target 2.csproj
+/Desafio Target 2.sln
